@@ -7,4 +7,4 @@ while(i <= max):
         s=s+i
         #finif
 #finwhile
-print("Suma de los pares:",s)
+print("Suma de los pares:", s)
